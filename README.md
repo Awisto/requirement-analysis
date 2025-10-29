@@ -76,7 +76,7 @@ Provides a clear visual overview of system interactions
 Simplifies communication between stakeholders and developers
 
 Helps identify potential missing functionalities
-![Booking System Use Case](alx-booking-uc.png.)
+![Booking System Use Case](alx-booking-uc.png)
 Acceptance Criteria
 
 Definition:
